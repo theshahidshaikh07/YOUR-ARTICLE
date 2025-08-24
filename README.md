@@ -33,15 +33,15 @@
    ```bash
    git clone https://github.com/theshahidshaikh07/YOUR-ARTICLE.git
 
-3. **Create Database and Import SQL**
+3. **Start Apache and MySQL in XAMPP OR WAMP**
+    -  Open the XAMPP/WAMP control panel and start the Apache and MySQL services.
+
+4. **Create Database and Import SQL**
 
     -  Open your browser and navigate to http://localhost/phpmyadmin
     -  Create a new database named "yourarticle".
     -  Import the SQL file provided (SQL/yourarticle.sql) into this database.
     -  You can find Admin ID and password in Imported Table
-      
-4. **Start Apache and MySQL in XAMPP OR WAMP**
-    -  Open the XAMPP/WAMP control panel and start the Apache and MySQL services.
 
 5. **Configure Email Settings**
     -  In the PHP mail script, update the Gmail SMTP settings with your Gmail credentials to enable admin notification emails.
@@ -52,12 +52,12 @@
 
 ## Preview
 ![Login Page](login.png)
-![Registration](Picture1.png)
+![Registration](Picture1.jpg)
 ![HomePage](user%homepage.png)
 ![ArticleSubmission](Article%submission.png)
 ![Records](records.png)
 ![About](aboutus.png)
-![Registration](registration.png)
+![Contact](contact%us.png)
 
 ## Help
 If you need any type of help you can mail me on theshahidshaikh7@gmail.com
