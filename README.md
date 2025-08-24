@@ -53,11 +53,11 @@
 ## Preview
 ![Login Page](login.png)
 ![Registration](Picture1.jpg)
-![HomePage](user%homepage.png)
-![ArticleSubmission](Article%submission.png)
+![HomePage](user_homepage.png)
+![ArticleSubmission](Article_submission.png)
 ![Records](records.png)
 ![About](aboutus.png)
-![Contact](contact%us.png)
+![Contact](contact_us.png)
 
 ## Help
 If you need any type of help you can mail me on theshahidshaikh7@gmail.com
