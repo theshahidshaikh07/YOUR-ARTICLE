@@ -48,21 +48,21 @@
 
 6.  **Run the Application**
     -  Open your browser and go to:
-        http://localhost/YOUR-ARTICLE/index.php
+        http://localhost/YOUR-ARTICLE/index.html
 
 ## Preview
 ### 🔐 Login Page
-![Login Page](login.png)
+![Login Page](users/login.png)
 ### 🏠 Home Page
-![HomePage](user_homepage.png)
+![HomePage](users/user_homepage.png)
 ### 📝 Article Submission Form
-![ArticleSubmission](article.png)
+![ArticleSubmission](users/article.png)
 ### 📝 Records (only visible through Admin Login)
-![Records](records.png)
+![Records](users/records.png)
 ### About us
-![About](aboutus.png)
+![About](users/aboutus.png)
 ### Contact Us
-![Contact](contact_us.png)
+![Contact](users/contact_us.png)
 
 ## Help
 If you need any type of help you can mail me on theshahidshaikh7@gmail.com

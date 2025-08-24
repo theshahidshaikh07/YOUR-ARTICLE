@@ -1,0 +1,44 @@
+body{
+	font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+	font-size:20px;
+	background: lightgray;
+	
+}
+.menu-bar
+{
+	background: grey;
+	text-align:center;
+	color:black;
+	font-size: 18px;
+	font-family:verdana;
+	font-weight:bold;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color:#fff;
+}
+.menu-bar ul li
+{
+	width:50px;
+	margin: 15px;
+	padding: 8;
+}
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: black;
+	padding: 8px 15px;
+}
+.active, .menu-bar ul li a:hover
+{
+		
+	border-radius:10px;
+	color:red;
+	background-color: black;
+	box-shadow: 0 0 20px red;
+	
+				
+}
