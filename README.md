@@ -51,12 +51,17 @@
         http://localhost/YOUR-ARTICLE/index.php
 
 ## Preview
+### 🔐 Login Page
 ![Login Page](login.png)
-![Registration](Picture1.jpg)
+### 🏠 Home Page
 ![HomePage](user_homepage.png)
-![ArticleSubmission](Article_submission.png)
+### 📝 Article Submission Form
+![ArticleSubmission](article.png)
+### 📝 Records (only visible through Admin Login)
 ![Records](records.png)
+### About us
 ![About](aboutus.png)
+### Contact Us
 ![Contact](contact_us.png)
 
 ## Help
