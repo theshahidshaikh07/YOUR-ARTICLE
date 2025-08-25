@@ -45,6 +45,7 @@
 
 5. **Configure Email Settings**
     -  In the PHP mail script, update the Gmail SMTP settings with your Gmail credentials to enable admin notification emails.
+    -  Edit php.ini file accordingly.
 
 6.  **Run the Application**
     -  Open your browser and go to:
